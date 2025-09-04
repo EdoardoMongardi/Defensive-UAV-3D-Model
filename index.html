@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Drone</title>
+
+		<link rel="stylesheet" href="assets/index.css">
+
+    <script src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@v0.163.0/build/three.module.js",
+          "three/addons/": "https://unpkg.com/three@v0.163.0/examples/jsm/"
+        }
+      }
+    </script>
+	</head>
+	<body>
+    <div id="heading">
+      <h1>Drone</h1>
+      <div class="border"></div>
+    </div>
+    <div id="progress-container">
+      <div id="progress">Loading...</div>
+    </div>
+    <button id="animation-control1">Animation1</button>
+    <button id="animation-control2">Animation2</button>
+    <button id="animation-control3">Animation3</button>
+    <button id="animation-control4">Animation4</button>
+		<script type="module" src="./index.js"></script>
+	</body>
+</html>
