@@ -1,0 +1,11 @@
+Model Information:
+* title:	DRONE ANIv2
+* source:	https://sketchfab.com/3d-models/drone-aniv2-28c01d96d49543b1a95a068f2aad8004
+* author:	JunOsiris (https://sketchfab.com/JunOsiris)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DRONE ANIv2" (https://sketchfab.com/3d-models/drone-aniv2-28c01d96d49543b1a95a068f2aad8004) by JunOsiris (https://sketchfab.com/JunOsiris) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
